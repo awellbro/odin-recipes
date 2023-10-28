@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(151, 86, 191);
+}
+
+.recOptions {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+ul {
+    width: 45%;
+    display: block;
+    border: 0.5px solid red;
+}
+
+li {
+    width: 25%;
+    border: 0.5px solid black;
+    margin: 0.5em;
+}
